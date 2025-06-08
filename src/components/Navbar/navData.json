@@ -1,0 +1,32 @@
+{
+   "Programs": [
+     { "title": "Software Development", "href": "#action/3.1" },
+     { "title": "FullStack Automation Engineering", "href": "#action/3.2" },
+     { "title": "Salesforce", "href": "#action/3.3" },
+     { "title": "Data Science", "href": "#action/3.4" },
+     { "title": "Cyber Security", "href": "#action/3.5" },
+     { "title": "AWS Devops", "href": "#action/3.6" }
+   ],
+   "Opportunities": [
+     { "title": "Richmond College", "href": "#action/3.1" },
+     { "title": "Mentoring Services", "href": "#action/3.2" }
+   ],
+   "Career Coaching": [
+     { "title": "Testiominials", "href": "#action/3.1" },
+     { "title": "Career Coaching", "href": "#action/3.2" },
+     { "title": "Job Report", "href": "#action/3.3" }
+   ],
+   "Blog": [{ "title": "Academy Team", "href": "#action/3.1" }],
+   "Apply Now": [
+     { "title": "Contact Enrollment", "href": "#action/3.1" },
+     { "title": "Free Enrollment", "href": "#action/3.2" },
+     { "title": "Premium Enrollment", "href": "#action/3.3" },
+     { "title": "Richmond College Enrollment", "href": "#action/3.4" },
+     { "title": "Language School Enrollment", "href": "#action/3.5" }
+   ],
+   "Interview Questions": [
+     { "title": "Java", "href": "#action/3.1" },
+     { "title": "Cyber Security", "href": "#action/3.2" }
+   ],
+   "About Us": []
+ }
