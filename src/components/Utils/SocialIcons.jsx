@@ -10,15 +10,19 @@ import {
 import { FaXTwitter } from "react-icons/fa6";
 
 export const SocialIcons = ({ color = "white", fontSize = "18px" }) => {
+  const iconStyle = {
+    color: color,
+    fontSize: fontSize,
+  };
   return (
     <>
-      <FaWhatsapp style={{ color: { color }, fontSize: { fontSize } }} />
-      <FaTelegram style={{ color: { color }, fontSize: { fontSize } }} />
-      <FaYoutube style={{ color: { color }, fontSize: { fontSize } }} />
-      <FaInstagram style={{ color: { color }, fontSize: { fontSize } }} />
-      <FaFacebook style={{ color: { color }, fontSize: { fontSize } }} />
-      <FaXTwitter style={{ color: { color }, fontSize: { fontSize } }} />
-      <FaLinkedin style={{ color: { color }, fontSize: { fontSize } }} />
+      <FaWhatsapp style={iconStyle} />
+      <FaTelegram style={iconStyle} />
+      <FaYoutube style={iconStyle} />
+      <FaInstagram style={iconStyle} />
+      <FaFacebook style={iconStyle} />
+      <FaXTwitter style={iconStyle} />
+      <FaLinkedin style={iconStyle} />
     </>
   );
 };
