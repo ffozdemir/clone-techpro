@@ -1,0 +1,17 @@
+.card {
+  .card-link {
+    font-size: 14px;
+  }
+
+  .card-subtitle {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 14px;
+  }
+
+  .card-img-top {
+    width: 100%;
+    object-fit: cover;
+  }
+}
