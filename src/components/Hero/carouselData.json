@@ -1,18 +1,18 @@
 [
   {
-    "image": "https://picsum.photos/id/1/1600/600",
+    "image": "https://picsum.photos/id/10/1600/600",
     "alt": "Hero Image 1",
     "title": "IT knows no barriers!",
     "description": "Introduce a friend to TechPro Education and get up to $500 off."
   },
   {
-    "image": "https://picsum.photos/id/2/1600/600",
+    "image": "https://picsum.photos/id/20/1600/600",
     "alt": "Hero Image 2",
     "title": "Back to School Sale",
     "description": "Enroll in our courses and get a 20% discount on tuition fees."
   },
   {
-    "image": "https://picsum.photos/id/3/1600/600",
+    "image": "https://picsum.photos/id/30/1600/600",
     "alt": "Hero Image 3",
     "title": "From Education to Employment",
     "description": "Join our career coaching program and secure your future in tech."
