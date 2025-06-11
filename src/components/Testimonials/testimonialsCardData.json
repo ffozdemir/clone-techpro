@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "stars": 5,
+    "name": "John Doe",
+    "comment": "This service has transformed my business! Highly recommend. The team is professional and attentive. I couldn't be happier with the results. Thank you! Highly recommend! The team is professional and attentive. I couldn't be happier with the results.This service has transformed my business! Highly recommend."
+  },
+  {
+    "id": 2,
+    "stars": 4,
+    "name": "Jane Smith",
+    "comment": "Great experience overall. The support was excellent and the product met my expectations. Will definitely use their services again.Great experience overall. The support was excellent and the product met my expectations. Will definitely use their services again."
+  },
+  {
+    "id": 3,
+    "stars": 5,
+    "name": "Alice Johnson",
+    "comment": "Absolutely fantastic! The quality of work is top-notch and the team is very responsive. I highly recommend them to anyone looking for reliable service.Absolutely fantastic! The quality of work is top-notch and the team is very responsive. I highly recommend them to anyone looking for reliable service."
+  },
+  {
+    "id": 4,
+    "stars": 3,
+    "name": "Bob Brown",
+    "comment": "Decent service, but there were some delays in communication. Overall, satisfied with the outcome but hope for better responsiveness next time.Decent service, but there were some delays in communication. Overall, satisfied with the outcome but hope for better responsiveness next time."
+  },
+  {
+    "id": 5,
+    "stars": 2,
+    "name": "Charlie White",
+    "comment": "Not what I expected. The service was slow and the quality did not meet my standards. I would not recommend this to others.Not what I expected. The service was slow and the quality did not meet my standards. I would not recommend this to others."
+  },
+  {
+    "id": 6,
+    "stars": 5,
+    "name": "Diana Green",
+    "comment": "Exceptional service! The team went above and beyond to ensure everything was perfect. I am extremely satisfied and will return for future projects.Exceptional service! The team went above and beyond to ensure everything was perfect. I am extremely satisfied and will return for future projects."
+  },
+  {
+    "id": 7,
+    "stars": 4,
+    "name": "Ethan Blue",
+    "comment": "Good service with a few minor issues. The team was helpful and resolved my concerns quickly. I would use them again.Good service with a few minor issues. The team was helpful and resolved my concerns quickly. I would use them again."
+  },
+  {
+    "id": 8,
+    "stars": 1,
+    "name": "Fiona Black",
+    "comment": "Very disappointed with the service. The product did not work as promised and customer support was unhelpful. I will not be using this service again.Very disappointed with the service. The product did not work as promised and customer support was unhelpful. I will not be using this service again."
+  },
+  {
+    "id": 9,
+    "stars": 5,
+    "name": "George Yellow",
+    "comment": "Outstanding experience! The team was professional and delivered high-quality work on time. I highly recommend their services to anyone.Outstanding experience! The team was professional and delivered high-quality work on time. I highly recommend their services to anyone."
+  }
+]
