@@ -1,0 +1,20 @@
+[
+  {
+    "image": "https://picsum.photos/id/1/400/400",
+    "subtitle": "Artificial intelligence",
+    "title": "How AI Agents Will Transform Our Lives",
+    "date": "February-2025"
+  },
+  {
+    "image": "https://picsum.photos/id/2/400/400",
+    "subtitle": "Data Science",
+    "title": "What is Machine Learning?",
+    "date": "July - 2023"
+  },
+  {
+    "image": "https://picsum.photos/id/3/400/400",
+    "subtitle": "IT Training",
+    "title": "Is TechPro Education good value for money?",
+    "date": "July - 2023"
+  }
+]

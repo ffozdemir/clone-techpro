@@ -1,0 +1,101 @@
+[
+  {
+    "id": "institutional",
+    "title": "Institutional",
+    "links": [
+      { "id": "programs", "title": "Programs", "href": "/programs" },
+      {
+        "id": "upcoming-programs",
+        "title": "Upcoming Programs",
+        "href": "/upcoming-programs"
+      },
+      { "id": "events", "title": "Events", "href": "/events" },
+      {
+        "id": "testimonials",
+        "title": "Testimonials",
+        "href": "/testimonials"
+      },
+      {
+        "id": "opportunities",
+        "title": "Opportunities",
+        "href": "/opportunities"
+      },
+      { "id": "blog", "title": "Blog", "href": "/blog" },
+      { "id": "apply-now", "title": "Apply Now", "href": "/apply" },
+      { "id": "about-us", "title": "About Us", "href": "/about" }
+    ]
+  },
+  {
+    "id": "upcoming-programs",
+    "title": "Upcoming Programs",
+    "links": [
+      {
+        "id": "cyber-security",
+        "title": "Cyber Security Analyst",
+        "href": "/programs/cyber-security"
+      },
+      {
+        "id": "free-cyber-security",
+        "title": "Free Cyber Security Analyst",
+        "href": "/programs/free-cyber-security"
+      },
+      {
+        "id": "aws-devops",
+        "title": "AWS & DevOps Engineer",
+        "href": "/programs/aws-devops"
+      },
+      {
+        "id": "free-aws-devops",
+        "title": "Free AWS & DevOps",
+        "href": "/programs/free-aws-devops"
+      },
+      {
+        "id": "free-java-daytime",
+        "title": "Free Java (DayTime)",
+        "href": "/programs/free-java-daytime"
+      },
+      {
+        "id": "java-backend",
+        "title": "Java Backend Developer",
+        "href": "/programs/java-backend"
+      },
+      {
+        "id": "free-java",
+        "title": "Free Java",
+        "href": "/programs/free-java"
+      },
+      {
+        "id": "backend-java",
+        "title": "Backend Developer (Java-Based)",
+        "href": "/programs/backend-java"
+      }
+    ]
+  },
+  {
+    "id": "responsibilities",
+    "title": "Our Responsibilities",
+    "links": [
+      {
+        "id": "earthquake-relief",
+        "title": "Earthquake Relief Campaigns",
+        "href": "/campaigns/earthquake-relief"
+      },
+      {
+        "id": "disabled-campaign",
+        "title": "Our Campaign for the Disabled",
+        "href": "/campaigns/disabled"
+      }
+    ]
+  },
+  {
+    "id": "hiring",
+    "title": "Hiring",
+    "links": [
+      {
+        "id": "hiring-details",
+        "title": "Click for details...",
+        "href": "/careers"
+      }
+    ]
+  }
+]
